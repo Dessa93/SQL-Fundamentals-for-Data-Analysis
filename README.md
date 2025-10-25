@@ -1,1 +1,3 @@
-# SQL-Fundamentals-for-Data-Analysis
+# SQL Fundamentals for Data Analysis
+
+/ ├── 01_DDL_and_Setup/ │ ├── Create_Alter_Tables.sql # DDL: CREATE, ALTER, DROP commands. │ └── Database_Restore.md # Notes on restoring the AdventureWorks database. ├── 02_Data_Manipulation/ │ ├── Insert_Update_Delete.sql # DML: INSERT, UPDATE, and TRUNCATE commands. ├── 03_Basic_Querying/ │ ├── Select_Where_Order.sql # Basic SELECT, WHERE, ORDER BY, and TOP usage. ├── 04_Advanced_Joins/ │ ├── Inner_Left_Right_Joins.sql # Demonstrations of INNER, LEFT, and RIGHT JOINs. │ └── Self_Joins_Examples.sql # Self Joins for internal table comparisons. ├── 05_Aggregation_and_Grouping/ │ └── GroupBy_and_Having.sql # Queries using GROUP BY, SUM, COUNT, and HAVING. └── README.md
